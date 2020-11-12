@@ -3,5 +3,7 @@
  
  [Download](https://github.com/yu-kari/FiraFira/releases)
 
-#todo
+# todo
 * italic ligatures
+* update FiraGO version
+* automations
